@@ -1,0 +1,4 @@
+<map id="Eigen::DynamicSparseMatrix&lt; _Scalar, _Options, _StorageIndex &gt;" name="Eigen::DynamicSparseMatrix&lt; _Scalar, _Options, _StorageIndex &gt;">
+<area shape="rect" id="node2" href="/home/orzel/hg/eigen-stable/build/doc/Eigen.doxytags$classEigen_1_1SparseMatrixBase.html" title="{Eigen::SparseMatrixBase\l\&lt; DynamicSparseMatrix\l\&lt; _Scalar, _Options, _StorageIndex \&gt; \&gt;\n|+ ColsAtCompileTime\l+ Flags\l+ IsVectorAtCompileTime\l+ RowsAtCompileTime\l+ SizeAtCompileTime\l|+ binaryExpr()\l+ block()\l+ block()\l+ block()\l+ block()\l+ block()\l+ block()\l+ bottomLeftCorner()\l+ bottomLeftCorner()\l+ bottomLeftCorner()\land 104 more...\l}" alt="" coords="5,189,260,501"/>
+<area shape="rect" id="node3" href="/home/orzel/hg/eigen-stable/build/doc/Eigen.doxytags$structEigen_1_1EigenBase.html" title="{Eigen::EigenBase\&lt; Derived \&gt;\n||+ cols()\l+ derived()\l+ derived()\l+ rows()\l+ size()\l}" alt="" coords="35,5,230,141"/>
+</map>

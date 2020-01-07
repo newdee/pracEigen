@@ -1,0 +1,4 @@
+<map id="Eigen::GMRES&lt; _MatrixType, _Preconditioner &gt;" name="Eigen::GMRES&lt; _MatrixType, _Preconditioner &gt;">
+<area shape="rect" id="node2" href="/home/orzel/hg/eigen-stable/build/doc/Eigen.doxytags$classEigen_1_1IterativeSolverBase.html" title="{Eigen::IterativeSolverBase\l\&lt; GMRES\&lt; _MatrixType, _Preconditioner \&gt; \&gt;\n||+ analyzePattern()\l+ compute()\l+ error()\l+ factorize()\l+ info()\l+ iterations()\l+ IterativeSolverBase()\l+ IterativeSolverBase()\l+ maxIterations()\l+ preconditioner()\l+ preconditioner()\l+ setMaxIterations()\l+ setTolerance()\l+ solveWithGuess()\l+ tolerance()\l}" alt="" coords="5,175,295,472"/>
+<area shape="rect" id="node3" href="/home/orzel/hg/eigen-stable/build/doc/Eigen.doxytags$classEigen_1_1SparseSolverBase.html" title="{Eigen::SparseSolverBase\l\&lt; Derived \&gt;\n||+ solve()\l+ solve()\l+ SparseSolverBase()\l}" alt="" coords="65,5,235,127"/>
+</map>

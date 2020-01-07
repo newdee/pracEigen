@@ -1,0 +1,4 @@
+<map id="Eigen::SkylineMatrix&lt; _Scalar, _Options &gt;" name="Eigen::SkylineMatrix&lt; _Scalar, _Options &gt;">
+<area shape="rect" id="node2" href="$classEigen_1_1SkylineMatrixBase.html" title="{Eigen::SkylineMatrixBase\l\&lt; SkylineMatrix\&lt; _Scalar,\l _Options \&gt; \&gt;\n|# m_isRValue\l|+ assignGeneric()\l+ cols()\l+ eval()\l+ evalTo()\l+ innerSize()\l+ isRValue()\l+ markAsRValue()\l+ nonZeros()\l+ operator*()\l+ operator=()\land 7 more...\l}" alt="" coords="18,204,191,457"/>
+<area shape="rect" id="node3" href="/home/orzel/hg/eigen-stable/build/doc/Eigen.doxytags$structEigen_1_1EigenBase.html" title="{Eigen::EigenBase\&lt; Skyline\lMatrix\&lt; _Scalar, _Options \&gt; \&gt;\n||+ cols()\l+ derived()\l+ derived()\l+ rows()\l+ size()\l}" alt="" coords="5,5,204,156"/>
+</map>
