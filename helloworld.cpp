@@ -12,4 +12,5 @@ int main()
   std::cout << m2 << std::endl;
   std::cout << m+m2 << std::endl;
   std::cout << m+m2+Eigen::Matrix2d::Constant(0.6) << std::endl;
+  return 0;
 }

@@ -10,3 +10,5 @@ message("found eigen3")
 endif()
 
 add_executable(helloworld helloworld)
+add_executable(init init)
+add_executable(arithmetic arithmetic)
